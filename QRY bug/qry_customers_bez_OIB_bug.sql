@@ -1,0 +1,3 @@
+SELECT *
+FROM dbo.Customers
+WHERE OIB IS NULL;
