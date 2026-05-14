@@ -138,4 +138,4 @@ Cilj projekta bio je demonstrirati:
 
 ## Autor
 
-Portfolio projekt izrađen u svrhu prijave za juniorsku ERP QA poziciju
+Dora Svjetličić
